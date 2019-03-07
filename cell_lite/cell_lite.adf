@@ -1,0 +1,65 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=cell_lite
+
+[Library]
+cell_lite=.\cell_lite.lib
+
+[$LibMap$]
+cell_lite=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=mmx_lite_mmx_lite_sch_tb|behavioral|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/alu_arth_cmpr.vhd=-1
+/alu_arth_sat.vhd=-1
+/alu_arth_smadd4.vhd=-1
+/alu_arth_smadd16.vhd=-1
+/alu_arth_cntrl.vhd=-1
+/alu_logshift.vhd=-1
+/instrint.vhd=-1
+/control.vhd=-1
+/registerfile.vhd=-1
+/pipereg_idex.vhd=-1
+/misc.vhd=-1
+/alu_arth.vhd=-1
+/alu_arth_tb.vhd=-1
+/alu.vhd=-1
+/mmx_lite.vhd=-1
+/mmx_lite_tb.vhd=-1
+
+[Files.Data]
+.\src\alu_arth_cmpr.vhd=VHDL Source Code
+.\src\alu_arth_sat.vhd=VHDL Source Code
+.\src\alu_arth_smadd4.vhd=VHDL Source Code
+.\src\alu_arth_smadd16.vhd=VHDL Source Code
+.\src\alu_arth_cntrl.vhd=VHDL Source Code
+.\src\alu_logshift.vhd=VHDL Source Code
+.\src\instrint.vhd=VHDL Source Code
+.\src\control.vhd=VHDL Source Code
+.\src\registerfile.vhd=VHDL Source Code
+.\src\pipereg_idex.vhd=VHDL Source Code
+.\src\misc.vhd=VHDL Source Code
+.\src\alu_arth.vhd=VHDL Source Code
+.\src\alu_arth_tb.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\mmx_lite.vhd=VHDL Source Code
+.\src\mmx_lite_tb.vhd=VHDL Source Code
+

@@ -1,0 +1,16 @@
+i<>.\src\alu.vhd
+i<>.\src\alu_arth.vhd
+i<>.\src\alu_arth_cmpr.vhd
+i<>.\src\alu_arth_cntrl.vhd
+i<>.\src\alu_arth_sat.vhd
+i<>.\src\alu_arth_smadd4.vhd
+i<>.\src\alu_arth_smadd16.vhd
+i<>.\src\alu_arth_tb.vhd
+i<>.\src\alu_logshift.vhd
+i<>.\src\control.vhd
+i<>.\src\instrint.vhd
+i<>.\src\misc.vhd
+i<>.\src\mmx_lite.vhd
+i<>.\src\mmx_lite_tb.vhd
+i<>.\src\pipereg_idex.vhd
+i<>.\src\registerfile.vhd

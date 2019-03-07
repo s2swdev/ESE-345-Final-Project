@@ -1,0 +1,12 @@
+[Version]
+Version=7.1
+[Designs]
+cell_lite=.\cell_lite\cell_lite.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+cell_lite=1

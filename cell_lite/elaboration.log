@@ -1,0 +1,35 @@
+elbread.dll ver. 1.0.5.375 Wed Mar 06 23:09:41 2019
+
+
+----------------------------------------------------
+Entity                    | Architecture | Library
+----------------------------------------------------
+mmx_lite_mmx_lite_sch_tb  | behavioral   | cell_lite
+mmx_lite                  | behavioral   | cell_lite
+alu                       | structure    | cell_lite
+control                   | dataflow     | cell_lite
+mux64_2x1                 | structure    | cell_lite
+pipereg_idex              | dataflow     | cell_lite
+registerfile              | dataflow     | cell_lite
+instrint                  | dataflow     | cell_lite
+alu_logshift              | dataflow     | cell_lite
+alu_arth                  | structure    | cell_lite
+mux64_2x1_2               | structure    | cell_lite
+alu_arth_cntrl            | dataflow     | cell_lite
+xor_64                    | structure    | cell_lite
+alu_arth_cmpr             | behavioral   | cell_lite
+alu_arth_smadd16          | mixed        | cell_lite
+mux1_2x1                  | structure    | cell_lite
+alu_arth_sat              | dataflow     | cell_lite
+alu_arth_smadd4           | structure    | cell_lite
+----------------------------------------------------
+
+---------------------------
+Package           | Library
+---------------------------
+standard          | std
+textio            | std
+std_logic_1164    | ieee
+numeric_std       | ieee
+std_logic_textio  | ieee
+---------------------------

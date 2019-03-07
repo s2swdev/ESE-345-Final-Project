@@ -1,0 +1,16 @@
+.\src\alu_arth_cmpr.vhd
+.\src\alu_arth_sat.vhd
+.\src\alu_arth_smadd4.vhd
+.\src\alu_arth_smadd16.vhd
+.\src\alu_arth_cntrl.vhd
+.\src\alu_logshift.vhd
+.\src\instrint.vhd
+.\src\control.vhd
+.\src\registerfile.vhd
+.\src\pipereg_idex.vhd
+.\src\misc.vhd
+.\src\alu_arth.vhd
+.\src\alu_arth_tb.vhd
+.\src\alu.vhd
+.\src\mmx_lite.vhd
+.\src\mmx_lite_tb.vhd

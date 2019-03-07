@@ -1,0 +1,205 @@
+acom -reorder -work cell_lite -2002  $DSN/src/alu_arth_cmpr.vhd $DSN/src/alu_arth_sat.vhd $DSN/src/alu_arth_smadd4.vhd $DSN/src/alu_arth_smadd16.vhd $DSN/src/alu_arth_cntrl.vhd $DSN/src/alu_logshift.vhd $DSN/src/instrint.vhd $DSN/src/control.vhd $DSN/src/registerfile.vhd $DSN/src/pipereg_idex.vhd $DSN/src/misc.vhd $DSN/src/alu_arth.vhd $DSN/src/alu_arth_tb.vhd $DSN/src/alu.vhd $DSN/src/mmx_lite.vhd $DSN/src/mmx_lite_tb.vhd
+# Compile with File Reorder...
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_cmpr.vhd
+# Compile Entity "alu_arth_cmpr"
+# Compile Architecture "Behavioral" of Entity "alu_arth_cmpr"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_sat.vhd
+# Compile Entity "alu_arth_sat"
+# Compile Architecture "dataflow" of Entity "alu_arth_sat"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_smadd4.vhd
+# Compile Entity "alu_arth_smadd4"
+# Compile Architecture "structure" of Entity "alu_arth_smadd4"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_smadd16.vhd
+# Compile Entity "alu_arth_smadd16"
+# Compile Architecture "mixed" of Entity "alu_arth_smadd16"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_cntrl.vhd
+# Compile Entity "alu_arth_cntrl"
+# Compile Architecture "dataflow" of Entity "alu_arth_cntrl"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_logshift.vhd
+# Compile Entity "alu_logshift"
+# Compile Architecture "dataflow" of Entity "alu_logshift"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\instrint.vhd
+# Compile Entity "Instrint"
+# Compile Architecture "dataflow" of Entity "Instrint"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\control.vhd
+# Compile Entity "control"
+# Compile Architecture "dataflow" of Entity "control"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\registerfile.vhd
+# Compile Entity "RegisterFile"
+# Compile Architecture "dataflow" of Entity "RegisterFile"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\pipereg_idex.vhd
+# Compile Entity "PipeReg_IDEX"
+# Compile Architecture "dataflow" of Entity "PipeReg_IDEX"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\misc.vhd
+# Compile Entity "mux64_2x1"
+# Compile Architecture "structure" of Entity "mux64_2x1"
+# Compile Entity "mux64_2x1_2"
+# Compile Architecture "structure" of Entity "mux64_2x1_2"
+# Compile Entity "mux1_2x1"
+# Compile Architecture "structure" of Entity "mux1_2x1"
+# Compile Entity "xor_64"
+# Compile Architecture "structure" of Entity "xor_64"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth.vhd
+# Compile Entity "alu_arth"
+# Compile Architecture "structure" of Entity "alu_arth"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_tb.vhd
+# Compile Entity "alu_arth_tb_vhd"
+# Compile Architecture "behavior" of Entity "alu_arth_tb_vhd"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu.vhd
+# Compile Entity "alu"
+# Compile Architecture "Structure" of Entity "alu"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\mmx_lite.vhd
+# Compile Entity "MMX_Lite"
+# Compile Architecture "BEHAVIORAL" of Entity "MMX_Lite"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\mmx_lite_tb.vhd
+# Compile Entity "MMX_Lite_MMX_Lite_sch_tb"
+# Compile Architecture "behavioral" of Entity "MMX_Lite_MMX_Lite_sch_tb"
+# Top-level unit(s) detected:
+# Entity => MMX_Lite_MMX_Lite_sch_tb
+# Entity => alu_arth_tb_vhd
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work cell_lite -2002  $DSN/src/alu_arth_cmpr.vhd $DSN/src/alu_arth_sat.vhd $DSN/src/alu_arth_smadd4.vhd $DSN/src/alu_arth_smadd16.vhd $DSN/src/alu_arth_cntrl.vhd $DSN/src/alu_logshift.vhd $DSN/src/instrint.vhd $DSN/src/control.vhd $DSN/src/registerfile.vhd $DSN/src/pipereg_idex.vhd $DSN/src/misc.vhd $DSN/src/alu_arth.vhd $DSN/src/alu_arth_tb.vhd $DSN/src/alu.vhd $DSN/src/mmx_lite.vhd $DSN/src/mmx_lite_tb.vhd
+# Compile with File Reorder...
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_cmpr.vhd
+# Compile Entity "alu_arth_cmpr"
+# Compile Architecture "Behavioral" of Entity "alu_arth_cmpr"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_sat.vhd
+# Compile Entity "alu_arth_sat"
+# Compile Architecture "dataflow" of Entity "alu_arth_sat"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_smadd4.vhd
+# Compile Entity "alu_arth_smadd4"
+# Compile Architecture "structure" of Entity "alu_arth_smadd4"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_smadd16.vhd
+# Compile Entity "alu_arth_smadd16"
+# Compile Architecture "mixed" of Entity "alu_arth_smadd16"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_cntrl.vhd
+# Compile Entity "alu_arth_cntrl"
+# Compile Architecture "dataflow" of Entity "alu_arth_cntrl"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_logshift.vhd
+# Compile Entity "alu_logshift"
+# Compile Architecture "dataflow" of Entity "alu_logshift"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\instrint.vhd
+# Compile Entity "Instrint"
+# Compile Architecture "dataflow" of Entity "Instrint"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\control.vhd
+# Compile Entity "control"
+# Compile Architecture "dataflow" of Entity "control"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\registerfile.vhd
+# Compile Entity "RegisterFile"
+# Compile Architecture "dataflow" of Entity "RegisterFile"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\pipereg_idex.vhd
+# Compile Entity "PipeReg_IDEX"
+# Compile Architecture "dataflow" of Entity "PipeReg_IDEX"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\misc.vhd
+# Compile Entity "mux64_2x1"
+# Compile Architecture "structure" of Entity "mux64_2x1"
+# Compile Entity "mux64_2x1_2"
+# Compile Architecture "structure" of Entity "mux64_2x1_2"
+# Compile Entity "mux1_2x1"
+# Compile Architecture "structure" of Entity "mux1_2x1"
+# Compile Entity "xor_64"
+# Compile Architecture "structure" of Entity "xor_64"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth.vhd
+# Compile Entity "alu_arth"
+# Compile Architecture "structure" of Entity "alu_arth"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu_arth_tb.vhd
+# Compile Entity "alu_arth_tb_vhd"
+# Compile Architecture "behavior" of Entity "alu_arth_tb_vhd"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\alu.vhd
+# Compile Entity "alu"
+# Compile Architecture "Structure" of Entity "alu"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\mmx_lite.vhd
+# Compile Entity "MMX_Lite"
+# Compile Architecture "BEHAVIORAL" of Entity "MMX_Lite"
+# File: C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\mmx_lite_tb.vhd
+# Compile Entity "MMX_Lite_MMX_Lite_sch_tb"
+# Compile Architecture "behavioral" of Entity "MMX_Lite_MMX_Lite_sch_tb"
+# Top-level unit(s) detected:
+# Entity => MMX_Lite_MMX_Lite_sch_tb
+# Entity => alu_arth_tb_vhd
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+asim -advdataflow  mmx_lite_mmx_lite_sch_tb behavioral
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2047 kB (elbread=1024 elab2=728 kernel=294 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Racer\Desktop\Sony_Cell_Lite\cell_lite\src\wave.asdb
+#  11:09 PM, Wednesday, March 06, 2019
+#  Simulation has been initialized
+#  Selected Top-Level: mmx_lite_mmx_lite_sch_tb (behavioral)
+run
+# KERNEL: 0 Cell-Lite
+# KERNEL:       ID&Rd     op:NOP         rd:0000    data_op1:0000000000000000    rs2:0000    data_op2:0000000000000000
+# KERNEL:       EX&WB     op:    wreg:UUUU    wdata:0000000000000000    data_op1:0000000000000000    data_op2:0000000000000000    write:U
+# KERNEL: 
+# KERNEL: 1 Cell-Lite
+# KERNEL:       ID&Rd     op:lv       rd:0000    data_op1:FFFFC00033331122    rs2:0000    data_op2:0000000000000000
+# KERNEL:       EX&WB     op:NOP         wreg:0000    wdata:0000000000000000    data_op1:0000000000000000    data_op2:0000000000000000    write:0
+# KERNEL: 
+# KERNEL: 2 Cell-Lite
+# KERNEL:       ID&Rd     op:lv       rd:0001    data_op1:CBFA156055555555    rs2:0000    data_op2:FFFFC00033331122
+# KERNEL:       EX&WB     op:lv       wreg:0000    wdata:FFFFC00033331122    data_op1:FFFFC00033331122    data_op2:0000000000000000    write:1
+# KERNEL: 
+# KERNEL: 3 Cell-Lite
+# KERNEL:       ID&Rd     op:lv       rd:0010    data_op1:FFFF300055555555    rs2:0000    data_op2:FFFFC00033331122
+# KERNEL:       EX&WB     op:lv       wreg:0001    wdata:CBFA156055555555    data_op1:CBFA156055555555    data_op2:FFFFC00033331122    write:1
+# KERNEL: 
+# KERNEL: 4 Cell-Lite
+# KERNEL:       ID&Rd     op:lv       rd:0111    data_op1:223F3EE790055111    rs2:0000    data_op2:FFFFC00033331122
+# KERNEL:       EX&WB     op:lv       wreg:0010    wdata:FFFF300055555555    data_op1:FFFF300055555555    data_op2:FFFFC00033331122    write:1
+# KERNEL: 
+# KERNEL: 5 Cell-Lite
+# KERNEL:       ID&Rd     op:a      rd:0100    data_op1:FFFFC00033331122    rs2:0010    data_op2:FFFF300055555555
+# KERNEL:       EX&WB     op:lv       wreg:0111    wdata:223F3EE790055111    data_op1:223F3EE790055111    data_op2:FFFFC00033331122    write:1
+# KERNEL: 
+# KERNEL: 6 Cell-Lite
+# KERNEL:       ID&Rd     op:sfw      rd:0100    data_op1:FFFFC00033331122    rs2:0010    data_op2:FFFF300055555555
+# KERNEL:       EX&WB     op:a      wreg:0100    wdata:FFFEF00088886677    data_op1:FFFFC00033331122    data_op2:FFFF300055555555    write:1
+# KERNEL: 
+# KERNEL: 7 Cell-Lite
+# KERNEL:       ID&Rd     op:ah      rd:0100    data_op1:FFFFC00033331122    rs2:0010    data_op2:FFFF300055555555
+# KERNEL:       EX&WB     op:sfw      wreg:0100    wdata:00009000DDDDBBCD    data_op1:FFFFC00033331122    data_op2:FFFF300055555555    write:1
+# KERNEL: 
+# KERNEL: 8 Cell-Lite
+# KERNEL:       ID&Rd     op:sfh      rd:0100    data_op1:FFFFC00033331122    rs2:0010    data_op2:FFFF300055555555
+# KERNEL:       EX&WB     op:ah      wreg:0100    wdata:FFFEF00088886677    data_op1:FFFFC00033331122    data_op2:FFFF300055555555    write:1
+# KERNEL: 
+# KERNEL: 9 Cell-Lite
+# KERNEL:       ID&Rd     op:rothi     rd:0100    data_op1:FFFFC00033331122    rs2:0001    data_op2:CBFA156055555555
+# KERNEL:       EX&WB     op:sfh      wreg:0100    wdata:00009000DDDEBBCD    data_op1:FFFFC00033331122    data_op2:FFFF300055555555    write:1
+# KERNEL: 
+# KERNEL: 10 Cell-Lite
+# KERNEL:       ID&Rd     op:or        rd:0100    data_op1:FFFFC00033331122    rs2:0001    data_op2:CBFA156055555555
+# KERNEL:       EX&WB     op:rothi     wreg:0100    wdata:CBF9D56088886677    data_op1:FFFFC00033331122    data_op2:CBFA156055555555    write:1
+# KERNEL: 
+# KERNEL: 11 Cell-Lite
+# KERNEL:       ID&Rd     op:sfw      rd:0100    data_op1:FFFFC00033331122    rs2:0001    data_op2:CBFA156055555555
+# KERNEL:       EX&WB     op:or        wreg:0100    wdata:FFFFD56077775577    data_op1:FFFFC00033331122    data_op2:CBFA156055555555    write:1
+# KERNEL: 
+# KERNEL: 12 Cell-Lite
+# KERNEL:       ID&Rd     op:sfhs     rd:0101    data_op1:FFFFC00033331122    rs2:0001    data_op2:CBFA156055555555
+# KERNEL:       EX&WB     op:sfw      wreg:0100    wdata:3405AAA0DDDDBBCD    data_op1:FFFFC00033331122    data_op2:CBFA156055555555    write:1
+# KERNEL: 
+# KERNEL: 13 Cell-Lite
+# KERNEL:       ID&Rd     op:or        rd:0000    data_op1:FFFFC00033331122    rs2:0000    data_op2:FFFFC00033331122
+# KERNEL:       EX&WB     op:sfhs     wreg:0101    wdata:0000000000000000    data_op1:FFFFC00033331122    data_op2:CBFA156055555555    write:1
+# KERNEL: 
+# KERNEL: 14 Cell-Lite
+# KERNEL:       ID&Rd     op:roti       rd:0011    data_op1:FFFFC00033331122    rs2:0000    data_op2:FFFFC00033331122
+# KERNEL:       EX&WB     op:or        wreg:0000    wdata:FFFFC00033331122    data_op1:FFFFC00033331122    data_op2:FFFFC00033331122    write:1
+# KERNEL: 
+# KERNEL: 15 Cell-Lite
+# KERNEL:       ID&Rd     op:slhlhi     rd:0100    data_op1:FFFFC00033331122    rs2:0011    data_op2:FFFFF0000CCC0448
+# KERNEL:       EX&WB     op:roti       wreg:0011    wdata:FFFFF0000CCC0448    data_op1:FFFFC00033331122    data_op2:FFFFC00033331122    write:1
+# KERNEL: 
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+#  Simulation has been stopped
